@@ -1,0 +1,9 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+body {
+    background-image: url(style/a-multitude-of-question-marks-in-the-form-of-a-repeating-pattern-on-a-dark-background-3d-render_77593-960.jpg);
+    background-size: cover;
+}
